@@ -12,7 +12,7 @@ Experiments:
 - emmons_dual_SMBelev_exp.ipynb updates a in each timestep
 - emmons_dual_modernDebris.ipynb combines exp 1 and 2 
 
-Currently all exp are started from a nonupdating smb, subject to change
+Currently all code has updating smb w each timestep in accordance to the evolution of the surface
 
 Extras:
 - all .py files are from refactor, out of date as of May 2026
